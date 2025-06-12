@@ -43,7 +43,5 @@ Uso livre para fins de estudo e portfólio.
 
 ---
 
-## 👤 Autor
-
-**Edésio Rodrigues**  
-🔗 [LinkedIn](https://www.linkedin.com/in/devedesio-rodrigues/)
+## 📬 Contato 
+- LinkedIn: [Edésio Rodrigues](https://www.linkedin.com/in/devedesio-rodrigues/)
