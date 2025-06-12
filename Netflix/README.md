@@ -9,7 +9,7 @@ Foi desenvolvido com fins educacionais, com estrutura visual semelhante à inter
 
 | Seções incluídas | Capturas de tela |
 |------------------|------------------|
-| Home, chamada, entrada de e-mail e galeria final | ![home](./docs/home.png)<br>![meio](./docs/.png)<br>![fim](./docs/fim.png)<br>![contrate](./docs/sessao2.png) |
+| Home, chamada, entrada de e-mail e galeria final | ![home](./docs/home.png)<br>![meio]<br>[contrate](./docs/sessao2.png) ![fim](./docs/fim.png)<br>!|
 
 ---
 
