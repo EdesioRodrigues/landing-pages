@@ -9,7 +9,7 @@ Foi desenvolvido com fins educacionais, com estrutura visual semelhante à inter
 
 | Seções incluídas | Capturas de tela |
 |------------------|------------------|
-| Home, chamada, entrada de e-mail e galeria final | ![home](./docs/home.png)<br>![meio]<br>[contrate](./docs/sessao2.png) ![fim](./docs/fim.png)<br>!|
+| Home, chamada, entrada de e-mail e galeria final | ![home](./docs/home.png)<br>![meio]<br>(./docs/sessao2.png)![fim](./docs/fim.png)<br>!|
 
 ---
 
@@ -20,3 +20,6 @@ Foi desenvolvido com fins educacionais, com estrutura visual semelhante à inter
 - Fontes Google  
 - Imagens e background fixo  
 - Vídeos nas molduras
+
+- ## 📬 Contato 
+- LinkedIn: [Edésio Rodrigues](https://www.linkedin.com/in/devedesio-rodrigues/)
